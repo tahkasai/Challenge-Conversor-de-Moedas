@@ -7,7 +7,6 @@ import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 
 import java.io.IOException;
-import java.util.InputMismatchException;
 
 public class ServiceMoeda {
     private final ClientMoeda client = new ClientMoeda();
